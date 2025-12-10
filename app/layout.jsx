@@ -8,7 +8,7 @@ import '@/assets/styles/globals.css';
 import 'photoswipe/dist/photoswipe.css';
 
 export const metadata = {
-  title: 'PropertyPulse',
+  title: 'ListingHub',
   description: 'Find The Perfect Rental Property',
   keywords: 'rental, property, real estate',
 };
